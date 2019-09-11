@@ -1,5 +1,5 @@
 ## A few of my favorite things
 
-Dog
-Cat
-Bananas
+1. Dog
+2. Cat
+3. Bananas
